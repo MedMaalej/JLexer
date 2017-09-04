@@ -1,1 +1,3 @@
 # JLexer
+
+JLexer is a java lexer. That means given a string containing one or many words, JLexer identifies wether the word is a keyword, a condition, a variable, ...
